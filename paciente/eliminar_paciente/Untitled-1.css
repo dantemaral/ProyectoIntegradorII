@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+body a {
+	width:20p;
+	color:#C03;	
+	text-decoration:none;
+	background:#C63;
+	border:100px;
+	font-family:Verdana, Geneva, sans-serif;
+	}
+
